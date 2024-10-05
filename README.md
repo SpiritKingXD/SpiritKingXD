@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (PLZ dont)
-- 😄 Pronouns: Attack Helecopter
+- 😄 Pronouns: Attack Helicopter
 - ⚡ Fun fact: Help me
 
 <!---
