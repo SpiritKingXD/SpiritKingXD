@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpiritKingXD
+- 👋 Hi, I’m @Anikit Mhrzn
 - 👀 I’m interested in nothin
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
